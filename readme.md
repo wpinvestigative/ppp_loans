@@ -1,6 +1,6 @@
 # Public companies reporting Paycheck Protection Program Loans
 
-The Washington Post’s database contains the names of public companies that have reported receiving loans under the Paycheck Protection Program (PPP) as of April 29, 2020. The company names, loan amounts and other details were reported in filings with the U.S. Securities and Exchange Commission. 
+The Washington Post’s database contains the names of public companies that have reported receiving loans under the Paycheck Protection Program (PPP) as of April 30, 2020. The company names, loan amounts and other details were reported in filings with the U.S. Securities and Exchange Commission. 
 
 The Post has been investigating problems in the small-business loan program – part of the federal coronavirus relief law known as the Cares Act – since it began April 3. The Small Business Association’s rollout of the program was [mired in chaos](https://www.washingtonpost.com/business/2020/04/02/federal-small-business-loan-program-faces-rocky-start-bankers-pump-breaks/), including web portals that crashed, a chaotic regulatory process and a frustrating [lack of cooperation](https://www.washingtonpost.com/business/2020/04/08/video-sba-official-blasts-big-banks-over-failure-quickly-distribute-loans/) from big banks.  
 
