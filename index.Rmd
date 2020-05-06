@@ -35,7 +35,7 @@ Editing: Ziva Branstetter, Mark Seibel
 ```{r loading, warning=F, message=F}
 library(tidyverse)
 library(DT)
-loans <- read_csv("data/ppp_loans_04-30.csv")
+loans <- read_csv("data/ppp_loans_05-05.csv")
 rownames(loans) <- c()
 datatable(loans, extensions = 'Buttons', filter='top',
     options = list(
